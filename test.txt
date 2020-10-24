@@ -1,0 +1,4 @@
+List of crashes:
+seg fault
+inv acc memory
+not enough memory
